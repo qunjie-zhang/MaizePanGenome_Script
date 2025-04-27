@@ -1,0 +1,6 @@
+{
+    "chr_vcf": "vcfs",
+    "gff": "../modify_MSU.IGDBv1.Allset.gff",
+    "acc": "../acc.csv",
+    "pheo": "../pheo.csv"
+}
